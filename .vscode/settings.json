@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "stdio.h": "c",
+        "task.h": "c",
+        "lora.h": "c",
+        "freertos.h": "c"
+    },
+    "idf.adapterTargetName": "esp32",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "idf.portWin": "COM3",
+    "idf.flashType": "UART"
+}
